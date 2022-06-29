@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66f328592880a7d488b363a0fb26dc7a, type: 3}
+  m_Name: convo3
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+  speakerRight: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: Lebih baik aku cari jalan keluar yang lain
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: Kamu harus sabar anak muda, ini bukan seperti yang biasa kamu lakukan
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: 'kamu sangat sering sekali, cari jalan pintas ketika naik gunung agar bisa
+      sampai lebih dulu dari yang lain '
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: hmm ya yaa , sepertinya beberapa ucapanmu benar tentang diriku
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: ' apakah kamu sadar akan perbuatanmu itu'
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: ' iya aku sangat sadar sekali, aku sangat bersalah membuaka jalan baru
+      untuk jalan pintas ku'
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: 'shingga bisa membuat pendaki gunung tersesat oleh  jalan pintas baru yang
+      aku buat '
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: ' hmmm sepertinya kamu sudah sedikit belajar memahami sekitar '
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: 'Tapi kamu harus melewati rintangan lain yang harus kamu lalu anak muda '
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: Baik, sepertinya waktu sudah semakin larut, saya sangat menyesali perbuatan
+      yang kurang baik saya
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: saya akan berjanji tidak mengulaginya lagi
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: Kamu harus menebus dan mencari tahu kesalahanmu sendiri nak
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: semakin kamu sadar akan kesalahanmu semakin cepat kamu keluar

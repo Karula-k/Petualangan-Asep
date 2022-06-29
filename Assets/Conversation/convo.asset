@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66f328592880a7d488b363a0fb26dc7a, type: 3}
+  m_Name: convo
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+  speakerRight: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: Wahh pemandangannya bagus sekali ya ges yaa ..
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: ko sepi ????
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: ' teman temanku pada kemana nih ?'
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: padahal, Aku sedang bersama teman temanku tadi.
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: ' apakah aku sedang tersesat, aku tidak tahu harus kemana aku berjalan,tempatnya
+      terasa aneh sekaliii'
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: ' Tolongg tolongg'
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: Sialan aku tersesat biadab
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: 'hahahaha, wahai anak muda sedang apa kamu disini '
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: 'Siapa kamu, apa yang kamu perbuat kepada ku '
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: Sehingga membuat ku tersesat ke tempat yang aneh ini
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: ' Cepat jawab biadab'
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: ' hahaha pantas saja kamu tersesat ke dimensi ini'
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: 'Perilaku mu lah yang telah mencelakakan mu anak muda '
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: 'hah, dimensi apa, biadab . jaman sekarang masih percaya seperti itu '
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: sudah lah percuma berbicara dengan sesuatu yang tidak jelas
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: ' paling ini cuma pikiran ku saja'
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: hoo ? pikiran mu saja, ini benar benar nayata anak muda
+  - character: {fileID: 11400000, guid: 7ec7f381034f85d41926f7b3d0a3cdbf, type: 2}
+    text: ' sebagai bukti nya silahkan saja keluar dari teka teki ini'
+  - character: {fileID: 11400000, guid: 7c09575982005694b9435ad51977fa17, type: 2}
+    text: teka teki ?
