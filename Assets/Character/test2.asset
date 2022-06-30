@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 826ce27ba9d657446a19493693823845, type: 3}
   m_Name: test2
   m_EditorClassIdentifier: 
-  fullName: Pikachu
-  portrait: {fileID: 21300000, guid: 44b9d057c1b3eed40bb3283eb1afbf48, type: 3}
+  fullName: cindaku
+  portrait: {fileID: 21300000, guid: d3cc9c7d991f0804ab0f158aad621222, type: 3}

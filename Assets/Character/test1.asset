@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 826ce27ba9d657446a19493693823845, type: 3}
   m_Name: test1
   m_EditorClassIdentifier: 
-  fullName: Ash
-  portrait: {fileID: 21300000, guid: 823a7473acbb5a4409fa583c963b52d5, type: 3}
+  fullName: Asep
+  portrait: {fileID: 21300000, guid: 37ca849005c0e6540af7b301c80dac3a, type: 3}

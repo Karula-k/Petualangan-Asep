@@ -9,7 +9,7 @@ public class QuestObject : MonoBehaviour
     public int questNumber;
     public bool item;
     public QuestManager qm;
-    public GameObject puzzle;
+   // public GameObject puzzle;
     public Uifirenotif uifirenotif;
     // Start is called before the first frame update
     void Start()
@@ -35,6 +35,6 @@ public class QuestObject : MonoBehaviour
     {
         qm.questComplete[questNumber] = true;
         gameObject.SetActive(false);
-        puzzle.SetActive(true);
+        //puzzle.SetActive(true);
     }
 }

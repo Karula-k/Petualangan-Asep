@@ -18,9 +18,11 @@ public class SliderManager : MonoBehaviour
     bool blockIsMoving;
     int shuffleMoveRemaining;
     Vector2Int prevShuffleOffset;
+    public QuestManager qm;
     [SerializeField]private float[] xy;
     public void StarsPuzzle()
     {
+        qm.puzzleSolve = false;
         CreatePuzzle();
         transform.position = new Vector2(transform.position.x+xy[0],transform.position.y+xy[1]);
         StartShuffle();
@@ -146,6 +148,7 @@ public class SliderManager : MonoBehaviour
             }
         }
         state = PuzzleState.Solve;
+        qm.puzzleSolve = true;
         emptyBlock.gameObject.SetActive(true);
 
     }

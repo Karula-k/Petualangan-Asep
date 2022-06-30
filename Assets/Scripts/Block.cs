@@ -13,7 +13,8 @@ public class Block : MonoBehaviour
     {
         this.startingCoord = startingCoord;
         coord = startingCoord;
-        GetComponent<MeshRenderer>().material =Resources.Load<Material>("blockMaterial");
+        GetComponent<MeshRenderer>().material =Resources.Load<Material>("Universal Render Pipeline/Lit");
+        GetComponent<Renderer>().material.shader = Shader.Find("Universal Render Pipeline/Lit");
         GetComponent<MeshRenderer>().material.mainTexture = image;
     }
     public void MoveToPosition(Vector2 target,float duration)

@@ -11,7 +11,6 @@ public class TriggerItem : MonoBehaviour
     void Start()
     {
         qm = FindObjectOfType<QuestManager>();
-        Debug.Log(qm.quests[number].number);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
